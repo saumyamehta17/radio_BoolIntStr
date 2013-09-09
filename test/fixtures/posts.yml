@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  status: false
+  appellation: 1
+  sex: MyString
+
+two:
+  status: false
+  appellation: 1
+  sex: MyString
